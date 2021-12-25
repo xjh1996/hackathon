@@ -1,4 +1,4 @@
-module github.com/Hejiawei0925/hackathon
+module github.com/xjh1996/hackathon
 
 go 1.16
 
